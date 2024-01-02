@@ -40,7 +40,7 @@
     - Closed: The ticket is closed after successful resolution and confirmation.
 
 <h3>Ticket Examples:</h3>
-<p>Let's explore some ticket examples to better understand how to handle them within osTicket:</p>
+<p>Lets look into some examples to get a better grasp on how ticketing works:</p>
 
 - Sev-A (1 hour, 24/7) - [Entire Mobile/Online Banking System is Down]
     - Severity: Critical
